@@ -1,2 +1,1 @@
-# test-pic-mall
-# Тестирование сайта https://picmall.ru
+# Тестирование веб-приложения https://picmall.ru
